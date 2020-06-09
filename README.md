@@ -2,10 +2,5 @@
 
 A new Flutter application.
 
-![alt text](https://github.com/Shubham-Narkhede/ignite_solution_task/blob/master/mobile_1.JPEG)
-
-![alt text](https://github.com/Shubham-Narkhede/ignite_solution_task/blob/master/mobile_2.JPEG)
-
-![alt text](https://github.com/Shubham-Narkhede/ignite_solution_task/blob/master/mobile_3.JPEG)
-
+![alt text](https://github.com/Shubham-Narkhede/json_parsing_and_create_gridview/blob/master/collage.png)
 
